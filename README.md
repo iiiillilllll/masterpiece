@@ -3,9 +3,9 @@ in uncharted territory.....
 
 |날짜|누적|위치|
 |--:|:--:|:--:|  
-|2026. 02. 08 ||crear repo|
+|2026. 02. 08 ||creat repo|
 |03. 07|85,700|draft done|
-
+|03. 08||Cover image|
 
   
 <br>
@@ -64,3 +64,4 @@ in uncharted territory.....
 ||3,100|80,100|6-9|
 |03.07|4,600|84,700|6-9|
 ||1,000|85,700|draft done|
+
