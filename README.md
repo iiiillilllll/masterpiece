@@ -8,6 +8,8 @@ in uncharted territory.....
 |03. 08|Cover image||
 |03. 14|Cover image|done|
 |03. 15|Polishing||
+|03. 16|Polishing|done|
+|03. 16|creat epub|done|
 
   
 <br>
